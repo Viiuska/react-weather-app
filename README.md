@@ -69,9 +69,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+
 # Weather app
 
 This weather app was built using React.js and follows the guidance from the freeCodeCamp.org Weather App tutorial (https://www.youtube.com/watch?v=Reny0cTTv24). It allows you to search for any city and provides you with essential weather details for the current day and the next six days. You can easily check the temperature, 'feels like' conditions, wind speed, atmospheric pressure, and humidity.
 
 ![image](https://github.com/Viiuska/react-weather-app/assets/87257685/25fb0123-3f4c-49b7-8218-b3b1db07396c)
-Image:Weather in Helsinki
+Image: Weather in Helsinki
