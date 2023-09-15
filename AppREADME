@@ -1,0 +1,3 @@
+# Weather app
+
+This weather app was built using React.js and follows the guidance from the freeCodeCamp.org Weather App tutorial (https://www.youtube.com/watch?v=Reny0cTTv24). It allows you to search for any city and provides you with essential weather details for the current day and the next six days. You can easily check the temperature, 'feels like' conditions, wind speed, atmospheric pressure, and humidity.
